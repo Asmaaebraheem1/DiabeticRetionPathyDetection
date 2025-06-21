@@ -1,11 +1,12 @@
 
 # Diabetic Retinopathy Detection
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/AsmaaElnagger/DiabeticRetionPathyDetection)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Asmaa111/diabetic-eye)
+
 
 A Streamlit-based web application for detecting diabetic retinopathy from eye fundus images using a deep learning model from Hugging Face.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/AsmaaElnagger/DiabeticRetionPathyDetection)
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Asmaa111/diabetic-eye)
 
 ## 🔍 Overview
 This application uses a pre-trained deep learning model to classify eye fundus images into different stages of diabetic retinopathy. The model is hosted on Hugging Face and integrated into a user-friendly Streamlit interface.
