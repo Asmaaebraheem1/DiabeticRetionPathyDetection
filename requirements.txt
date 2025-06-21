@@ -1,3 +1,8 @@
 altair
 pandas
 streamlit
+torch
+transformers
+Pillow
+requests
+pdf2image

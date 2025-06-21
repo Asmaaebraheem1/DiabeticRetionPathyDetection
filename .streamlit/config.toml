@@ -1,0 +1,11 @@
+[server]
+headless = true
+enableCORS = false
+port = 8501
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[global]
+disableWatchdogWarning = true
